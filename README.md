@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord : @soukan1um
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: i fw game
+- ⚡ Fun fact: cyberpunk is peak
 
 <!---
 Soukanium/Soukanium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
