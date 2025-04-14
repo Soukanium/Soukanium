@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord : @soukan1um
-- 😄 Pronouns: they/them
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: cyberpunk is peak
 
 <!---
